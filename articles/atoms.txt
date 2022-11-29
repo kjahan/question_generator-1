@@ -1,0 +1,11 @@
+No. Two atoms of the same chemical element are typically not identical.
+
+First of all, there is a range of possible states that the electrons of an atom can occupy.
+
+Two atoms of the same element can be different if their electrons are in different states. If one copper atom has an electron in an excited state and another copper atom has all of its electrons in the ground state, then the two atoms are different. The excited copper atom will emit a bit of light when the electron relaxes back down to the ground state, and the copper atom already in the ground state will not.
+
+Since the states of the electrons in an atom are what determine the nature of the chemical bonding that the atom experiences, two atoms of the same element can react differently if they are in different states.
+
+For instance, a neutral sodium atom (say, from a chunk of sodium metal) reacts with water much more violently than an ionized sodium atom (say, from a bit of salt). Chemists know this very well. It's not enough to say what atoms are involved if you want to fully describe and predict a reaction.
+
+You have to also specify the ionization/excitation states of the electrons in the atoms. Even if left alone, an atom often does not come with an equal number of protons and electrons.
