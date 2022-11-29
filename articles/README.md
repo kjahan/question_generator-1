@@ -19,3 +19,5 @@ Some example texts taken from BBC News articles.
 "Methylprednisolone" is taken from https://www.webmd.com/drugs/2/drug-6470/methylprednisolone-oral/details
 
 "azithromycin.txt" is taken from https://www.webmd.com/drugs/2/drug-1527-3223/azithromycin-oral/azithromycin-250-500-mg-oral/details
+
+"ivermectin.txt" is taken from https://www.webmd.com/drugs/2/drug-1122/ivermectin-oral/details
