@@ -1,0 +1,16 @@
+Microsoft, its subsidiary GitHub, and its business partner OpenAI have been targeted in a proposed class action lawsuit alleging that the companies’ creation of AI-powered coding assistant GitHub Copilot relies on “software piracy on an unprecedented scale.” The case is only in its earliest stages but could have a huge effect on the broader world of AI, where companies are making fortunes training software on copyright-protected data.
+
+Copilot, which was unveiled by Microsoft-owned GitHub in June 2021, is trained on public repositories of code scraped from the web, many of which are published with licenses that require anyone reusing the code to credit its creators. Copilot has been found to regurgitate long sections of licensed code without providing credit — prompting this lawsuit that accuses the companies of violating copyright law on a massive scale.
+
+“We are challenging the legality of GitHub Copilot,” said programmer and lawyer Matthew Butterick, who filed the lawsuit with the help of the San Francisco-based Joseph Saveri Law Firm, in a press statement. “This is the first step in what will be a long journey. As far as we know, this is the first class-action case in the US challenging the training and output of AI systems. It will not be the last. AI systems are not exempt from the law. Those who create and operate these systems must remain accountable.”
+
+
+The lawsuit, which was filed last Friday, is in its early stages. In particular, the court has not yet certified the proposed class of programmers who have allegedly been harmed. But speaking to The Verge, Butterick and lawyers Travis Manfredi and Cadio Zirpoli of the Joseph Saveri Law Firm said they expected the case to have a huge impact on the wider world of generative AI.
+
+
+Microsoft and OpenAI are far from alone in scraping copyrighted material from the web to train AI systems for profit. Many text-to-image AI, like the open-source program Stable Diffusion, were created in exactly the same way. The firms behind these programs insist that their use of this data is covered in the US by fair use doctrine. But legal experts say this is far from settled law and that litigation like Butterick’s class action lawsuit could upend the tenuously defined status quo.
+
+To find out more about the motivations and reasoning behind the lawsuit, we spoke to Butterick (MB), Manfredi (TM), and Zirpoli (CZ), who explained why they think we’re in the Napster-era of AI and why letting Microsoft use other’s code without attribution could kill the open source movement.
+
+
+In response to a request for comment, GitHub said: “We’ve been committed to innovating responsibly with Copilot from the start, and will continue to evolve the product to best serve developers across the globe.” OpenAI and Microsoft had not replied to similar requests at the time of publication.

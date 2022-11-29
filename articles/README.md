@@ -21,3 +21,7 @@ Some example texts taken from BBC News articles.
 "azithromycin.txt" is taken from https://www.webmd.com/drugs/2/drug-1527-3223/azithromycin-oral/azithromycin-250-500-mg-oral/details
 
 "ivermectin.txt" is taken from https://www.webmd.com/drugs/2/drug-1122/ivermectin-oral/details
+
+"ERC721A.txt" is taken from https://github.com/chiru-labs/ERC721A
+
+"copilot.txt" is taken from https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data
