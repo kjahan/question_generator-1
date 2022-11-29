@@ -17,3 +17,5 @@ Some example texts taken from BBC News articles.
 "atoms.txt" is taken from https://www.wtamu.edu/~cbaird/sq/2014/03/13/are-two-atoms-of-the-same-element-identical/
 
 "Methylprednisolone" is taken from https://www.webmd.com/drugs/2/drug-6470/methylprednisolone-oral/details
+
+"azithromycin.txt" is taken from https://www.webmd.com/drugs/2/drug-1527-3223/azithromycin-oral/azithromycin-250-500-mg-oral/details
